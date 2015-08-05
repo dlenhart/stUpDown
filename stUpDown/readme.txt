@@ -22,6 +22,8 @@ Installation:
 
 -See this tutorial for further instructions:  http://www.drewlenhart.com/monitor-your-servers-with-powershell-more-part-1/
 
+-Also look at the run_api() function, this is where cURL is used to update data using the poor man’s API included in the Dashboard!
+
 5. Install cURL for Windows: http://curl.haxx.se/  DON'T forget to add cURL to your PATH variables.
 
 6. Following the tutorials in the links above will get you a working monitoring script with failure emails!
