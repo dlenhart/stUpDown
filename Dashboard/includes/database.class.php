@@ -12,9 +12,9 @@ class database
     private static $instance;
 
 	private function __construct(){
-		$db_username = "stupdwn";
-		$db_password = "viper501";
-		$db_name = "stats";
+		$db_username = ""; //database username
+		$db_password = ""; //database password
+		$db_name = ""; //database name
 		$host = "localhost";
         
 	try{
